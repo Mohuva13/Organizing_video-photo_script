@@ -11,7 +11,9 @@ Python script for copy your videos and photos by year
 
 * e.g.,
 
-> $ python3 **\"\~/home/Documents\"** **\"\~/home/Travel Memories\"**
+> $ python3 **Org_copy.py** \"\~/home/Documents\" \"\~/home/Travel Memories\"
+
+
 
 # Befor and after using script:
 
